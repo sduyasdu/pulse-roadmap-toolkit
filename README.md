@@ -73,11 +73,11 @@ automatically.
 4. Click **Browse plugins**, then **Add marketplace**.
 5. Enter the repository URL — either form works:
    ```
-   https://github.com/sduyasdu/YOUR-REPO
+   https://github.com/sduyasdu/pulse-roadmap-toolkit
    ```
    or the shorthand:
    ```
-   YOUR-USERNAME/YOUR-REPO
+   sduyasdu/pulse-roadmap-toolkit
    ```
 6. Cowork reads `.claude-plugin/marketplace.json` at the repo root and lists
    the plugin(s) it finds — **pulse-roadmap-toolkit** should appear.
