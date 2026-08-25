@@ -1,0 +1,19 @@
+{
+  "name": "pulse-roadmap-toolkit",
+  "description": "Connects to Pulse (pulse.yasdu.com) and generates three deliverables from live Pulse data: a branded epic/task status report (Word or PDF), a weekly chronogram/Gantt spreadsheet, and a monthly resource hours & cost workbook.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Pulse Roadmap Toolkit contributors"
+  },
+  "homepage": "https://github.com/YOUR_GITHUB_ORG/pulse-roadmap-toolkit",
+  "license": "MIT",
+  "keywords": [
+    "pulse",
+    "project-management",
+    "roadmap",
+    "gantt",
+    "chronogram",
+    "reporting",
+    "cost-tracking"
+  ]
+}

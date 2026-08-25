@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "pulse": {
+      "type": "url",
+      "url": "https://pulse.yasdu.com/mcp"
+    }
+  }
+}
