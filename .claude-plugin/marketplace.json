@@ -5,7 +5,7 @@
   "plugins": [
     {
       "name": "pulse-roadmap-toolkit",
-      "source": "./plugins/pulse-roadmap-toolkit",
+      "source": "./",
       "description": "Pulse epic/task reports, chronograms, and cost workbooks."
     }
   ]
